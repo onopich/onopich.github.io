@@ -1,0 +1,71 @@
+body
+{
+
+}
+
+
+
+p.menu2
+{
+font:13px Tahoma;
+color:#f9b11d;
+margin:0px;
+padding:0px;
+margin-left:60px;
+margin-bottom:20px;
+margin-right:10px;
+}
+
+
+
+
+a.menu2:link, a.menu2:visited, a.menu2:hover, a.menu2:active 
+{
+text-decoration:underline;
+color:#ffffff;
+}
+
+a.menu2:hover
+{
+text-decoration:none;
+}
+
+
+
+#right_pic_prod img
+{
+margin:30px auto auto auto;
+}
+
+
+p.footer
+{
+font:13px Tahoma;
+margin:0px;
+padding:0px;
+width:60%;
+}
+
+p.footer_tel
+{
+font:13px Tahoma;
+margin:0px;
+padding:0px;
+margin-right:10px;
+margin-left:10px;
+margin-bottom:5px;
+}
+
+
+a.niz:link, a.niz:visited, a.niz:hover, a.niz:active 
+{
+font:13px Tahoma;
+text-decoration: underline;
+color:#F9B11D;
+}
+
+a.niz:hover
+{
+color:#F9B11D;
+text-decoration: none;
+}
